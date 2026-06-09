@@ -16,6 +16,5 @@ cấu hình xong file yml thì chạy up -d để pull các dịch vụ
 
 -influxdb
 
-<img width="1287" height="461" alt="image" src="https://github.com/user-attachments/assets/b4d61fc9-9c44-4598-b7f4-324d68740dbf" />
-<img width="1671" height="336" alt="image" src="https://github.com/user-attachments/assets/5bd6936c-f84b-4601-8b20-179b1cb1c653" 
+<img width="1640" height="328" alt="image" src="https://github.com/user-attachments/assets/7de8b1b2-6fe6-4e44-be6f-bb0379838032" />
 
