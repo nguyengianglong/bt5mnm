@@ -45,5 +45,18 @@ cấu hình xong file yml thì chạy up -d để pull các dịch vụ
 
 <img width="1920" height="822" alt="image" src="https://github.com/user-attachments/assets/d9c0bad5-a2c5-4b27-aad9-f95b3e13fef3" />
 
+-Nén lại 1 file 
+<img width="678" height="146" alt="image" src="https://github.com/user-attachments/assets/baf1b803-c332-42d1-9ac1-ffd2b2c052f0" />
+
+-đã xóa container
+-<img width="833" height="258" alt="image" src="https://github.com/user-attachments/assets/af1788f2-d370-42d0-b75e-7fdbcd830b92" />
+
+
+<img width="1920" height="635" alt="image" src="https://github.com/user-attachments/assets/6614c1d0-6062-4ecb-b985-21cfac3b4c26" />
+-docker compose up lại 
+-<img width="955" height="210" alt="image" src="https://github.com/user-attachments/assets/b7a4f9a2-74b3-4071-8c52-d19d560f9412" />
+
+-đã chạy lại bình thường 
+<img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/f6b1dfd3-ab68-4e2a-a114-266b06a7c9c9" />
 
 
